@@ -2,7 +2,7 @@
 
 // Paymentlink integration in core PHP
 
-// Payment link will work  onnly with live keys
+// Payment link will work  only with live keys
 
 // Merchant need to capture below array data  from customer using frontend
 
